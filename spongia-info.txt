@@ -1,0 +1,12 @@
+Názov tímu: paulinia
+Názov hry: Zabudataja
+Vývojové prostredie a prostriedky: Python - pyglet
+
+Obrázky:
+Všetky obrázky kreslené mnou
+
+Hudba:
+Časť piesní - http://www.bensound.com/
+Časť piesní - http://www.purple-planet.com/home/4592632681
+Zvuk dverí, zomierajúci zvuk - http://soundbible.com/
+Vetky zvuky sú royalty free

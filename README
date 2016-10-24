@@ -1,0 +1,6 @@
+Linux-only
+
+Installed pyglet required (python3 -m pip install pyglet or sudo python3 install pyglet).
+
+Run:
+python3 main.py
