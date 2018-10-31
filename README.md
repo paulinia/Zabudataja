@@ -6,9 +6,10 @@ Linux-only
 RUN:
 chod do: dist/main/
 A subor Zabudataja Linux
-Zial, na windows nefunguje, windows je bugly
 
-Ovladanie:
-Myska a klavesnica, v menu sa vybera sipkami hore a dolu a enterom
+Ovladánie:
+Myška a klávesnica, v menu sa vyberá šípkami hore a dolu a enterom
+
 Čierne obrazovky nie sú náhodné
+
 Všetko ostatné hra povie sama.
