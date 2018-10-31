@@ -4,8 +4,8 @@ Hra z Špongie 2016, Zabudataja.
 Linux-only
 
 RUN:
-chod do: dist/main/
-A subor Zabudataja Linux
+cat dist/main/
+./"Zabudataja Linux:
 
 Ovladánie:
 Myška a klávesnica, v menu sa vyberá šípkami hore a dolu a enterom
