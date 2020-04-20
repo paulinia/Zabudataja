@@ -5,6 +5,7 @@ Linux-only
 
 RUN:
 ./dist/main/Zabudataja\ Linux
+
 Ak toto nefunguje (lebo pyglet sa buglo updatol) tak toto by malo: python3 main.py
 
 Ovladánie:
